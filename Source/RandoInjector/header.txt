@@ -1,0 +1,7 @@
+#include <iostream>
+#include <Windows.h>
+#include <TlHelp32.h>
+
+#define DLL_NAME "domonchiware.dll"
+#define PROC_NAME "csgo.exe"
+
